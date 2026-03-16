@@ -1,8 +1,12 @@
 ## Healthcare SQL Analysis
 
-This project contains SQL queries used to analyze healthcare data and generate important hospital performance metrics.
+## Project Description
 
-The queries help extract insights related to patient visits, doctor performance, treatment costs, and lab test results. These insights support better healthcare management and operational decision-making.
+This project focuses on analyzing healthcare data using SQL to generate important hospital performance metrics. 
+
+The analysis includes patient visits, doctor activity, treatment costs, lab test results, and diagnosis trends. SQL queries are used to calculate key metrics such as total patients, total doctors, revenue, average treatment cost, and abnormal lab result percentage.
+
+The goal of this project is to extract meaningful insights from healthcare data to support better hospital management and data-driven decision making.
 
 
 Key analyses performed:
@@ -64,7 +68,8 @@ The SQL queries used for these analyses are available in the file **Healthcare.s
 • Data Insight Generation
 
 
-Author & Contact
+## Author & Contact
+
 Vikash Kumar
 
 Aspiring Business Analyst
